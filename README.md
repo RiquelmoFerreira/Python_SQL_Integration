@@ -6,7 +6,7 @@
 
 This project was done during the hands-on training of the Python for Data Analysis course carried out by Hashtag Programação
 
-A simple integration between Python and SQL, in this project the Python language and Pyodbc library were used in the Jupyter Notebook environment
+A simple integration between Python and SQL, in this project the Python language and Pyodbc library were used in the Jupyter Notebook environment and SQL were used in the SSMS 19 environment
 
 ## MySQL Overview
 ![InitialVision](https://github.com/RiquelmoFerreira/Python_SQL_Integration/blob/main/Imagem1.png)
