@@ -6,7 +6,7 @@
 
 This project was done during the hands-on training of the Python for Data Analysis course carried out by Hashtag Programação
 
-The project is an analysis of the closing value of the shares of the Brazilian retail company Magalu from 2021 to 2022, in this project the Python language and its libraries Numpy, Pandas, Seaborn, Matplotlib and Plotly were used in the Jupyter Notebook environment
+A simple integration between Python and SQL, in this project the Python language and Pyodbc library were used in the Jupyter Notebook environment
 
 ## MySQL Overview
 ![InitialVision](https://github.com/RiquelmoFerreira/Python_SQL_Integration/blob/main/Imagem1.png)
@@ -14,9 +14,10 @@ The project is an analysis of the closing value of the shares of the Brazilian r
 ## Jupyter Notebook Overview
 ![ChartSample](https://github.com/RiquelmoFerreira/Python_SQL_Integration/blob/main/Imagem2.png)
 
-# Technologies
+# Technologies and Libraries
 - Jupyter Notebook
 - Python
+- Pyodbc
 - SSMS 19 or another environment (PgAdmin 4 and others)
 - SQL
 
@@ -24,7 +25,7 @@ The project is an analysis of the closing value of the shares of the Brazilian r
 ## Prerequisites:
 - Python 3.11.0 or superior
 - Jupyter Notebook
-- SSMS 19 SSMS 19 or another environment (PgAdmin 4 and others)
+- SSMS 19 or another environment (PgAdmin 4 and others)
 
 ## How to Run:
 - If you're using SSMS 19 download the file 'Sample.sql' and run in a New Query to create the Database
