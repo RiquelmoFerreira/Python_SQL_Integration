@@ -9,7 +9,7 @@ Esse projeto foi feito durante o treino prático do curso de Python para Anális
 
 Uma integração simples entre Python e SQL, nesse projeto a linguagem Python e sua Biblioteca Pyodbc foram usadas no ambiente do Jupyter Notebook e SQL foi usado no ambiente SSMS 19.
 
-## Visão Geral MySQL
+## Visão Geral SQL Server
 ![VisaoGeralMySQL](https://github.com/RiquelmoFerreira/Python_SQL_Integration/blob/main/Imagem1.png)
 
 ## Visão Geral Jupyter Notebook
